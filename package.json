@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/aprovecha-los-benefi",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a aprovecha-los-benefi",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/aprovecha-los-benefi.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/conoce-los-beneficios-de-los-paneles-solares-en-hogares/"
+    },
+    "homepage": "https://bitcu.co/conoce-los-beneficios-de-los-paneles-solares-en-hogares/"
+}
